@@ -1,0 +1,19 @@
+{
+    "name": "nodejs-typescript",
+    "version": "1.0.0",
+    "description": "NodeJS with TypeScript",
+    "main": "index.ts",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JuanEsp14/nodeJs-typeScript.git"
+    },
+    "author": "Juan Espinoza",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JuanEsp14/nodeJs-typeScript/issues"
+    },
+    "homepage": "https://github.com/JuanEsp14/nodeJs-typeScript#readme"
+}
